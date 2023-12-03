@@ -1,3 +1,20 @@
+Getting started with this project had build earlier also and added a type of cart functionalities and also added some css and pop up smoothing styling
+did'nt use the given JSON filel but taken the data manually
+<img width="960" alt="image" src="https://github.com/viraajsinghgill/Restaurant-frontend/assets/125380557/0440bf1b-54f1-4d6a-86e6-5acf97dc95b9">
+
+<img width="960" alt="image" src="https://github.com/viraajsinghgill/Restaurant-frontend/assets/125380557/7fccefa8-c89d-4ab7-bb50-4591900f5bee">
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
